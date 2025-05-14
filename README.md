@@ -8,7 +8,7 @@ Here is how the To-Do List Application looks:
 
 Deploy: https://to-do-list-two-xi-35.vercel.app/
 
-Repo link: 
+Repo link: https://github.com/upadhyayji2811/ToDo_list.git
 
 ## Features
 
