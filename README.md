@@ -6,9 +6,9 @@ This is a simple and user-friendly **To-Do List Application** built using **Reac
 
 Here is how the To-Do List Application looks:
 
-Deploy:
+Deploy: https://to-do-list-two-xi-35.vercel.app/
 
-Repo link:
+Repo link: 
 
 ## Features
 
@@ -53,11 +53,11 @@ npm install
 npm run dev
 ```
 
-## 🎨 UI Preview
+##  UI Preview
 
-- ✅ Circular checkbox with pink background and white checkmark.
-- ✅ Tasks automatically shift completed tasks to the bottom.
-- ✅ Smooth transition and clean UI using Tailwind CSS.
+-  Circular checkbox with pink background and white checkmark.
+-  Tasks automatically shift completed tasks to the bottom.
+-  Smooth transition and clean UI using Tailwind CSS.
 
 ---
 
